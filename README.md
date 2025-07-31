@@ -8,13 +8,13 @@ Class A headphone amplifier project — designed, simulated, and tested.
 
 ## 📂 Project Structure
 
-- `docs/` — presentations of analysis and simulation in LTspice  
+- [`docs/`](./docs) — presentations of analysis and simulation in LTspice  
   - Polish version: *Symulacja i analiza wzmacniacza słuchawkowego klasy A w LTspice*  
   - English version: *LTspice Simulation and Analysis of Class A Headphone Amplifier*  
 
-- `pcb/` — Gerber files and a screenshot from Gerber Viewer for quick PCB preview  
+- [`pcb/`](./pcb) — Gerber files and a screenshot from Gerber Viewer for quick PCB preview  
 
-- `photos/` — images and visualizations of the device  
+- [`photos/`](./photos) — images and visualizations of the device  
   - 3D simulation renderings  
   - Actual photo of the PCB soldering side  
   - Photo of the tested device  
@@ -34,9 +34,9 @@ The headphone amplifier was designed based on analysis and simulation done in LT
 
 ## 📁 How to Use
 
-- To review the analysis and simulations, please check the PDF files in the `docs/` folder.  
-- The Gerber files located in the `pcb/` folder can be viewed using a Gerber viewer software such as KiCad Gerber Viewer.  
-- The `photos/` folder contains visualizations and real photos of the device.  
+- To review the analysis and simulations, please check the PDF files in the [`docs/`](./docs) folder.  
+- The Gerber files located in the [`pcb/`](./pcb) folder can be viewed using a Gerber viewer software such as KiCad Gerber Viewer.  
+- The [`photos/`](./photos) folder contains visualizations and real photos of the device.  
 
 ---
 
@@ -61,13 +61,13 @@ Projekt wzmacniacza słuchawkowego klasy A — zaprojektowany, zwymiarowany i pr
 
 ## 📂 Struktura projektu
 
-- `docs/` — prezentacje analizy i symulacji układu w LTspice  
+- [`docs/`](./docs) — prezentacje analizy i symulacji układu w LTspice  
   - Polskojęzyczna: *Symulacja i analiza wzmacniacza słuchawkowego klasy A w LTspice*  
   - Angielska: *LTspice Simulation and Analysis of Class A Headphone Amplifier*  
 
-- `pcb/` — pliki Gerber oraz zrzut ekranu z Gerber Viewer do szybkiego podglądu projektu PCB  
+- [`pcb/`](./pcb) — pliki Gerber oraz zrzut ekranu z Gerber Viewer do szybkiego podglądu projektu PCB  
 
-- `photos/` — zdjęcia i wizualizacje urządzenia  
+- [`photos/`](./photos) — zdjęcia i wizualizacje urządzenia  
   - 3D symulacja wyglądu  
   - Zdjęcie rzeczywistej płytki PCB od strony lutowania  
   - Zdjęcie testowanego urządzenia  
@@ -87,9 +87,9 @@ Wzmacniacz słuchawkowy został zaprojektowany na podstawie analizy i symulacji 
 
 ## 📁 Jak używać
 
-- Aby przejrzeć analizę i symulacje, zapoznaj się z plikami PDF w folderze `docs/`.  
-- Pliki Gerber dostępne w folderze `pcb/` można otworzyć w programie do podglądu Gerber, np. KiCad Gerber Viewer.  
-- W folderze `photos/` znajdziesz wizualizacje i zdjęcia rzeczywistego urządzenia.  
+- Aby przejrzeć analizę i symulacje, zapoznaj się z plikami PDF w folderze [`docs/`](./docs).  
+- Pliki Gerber dostępne w folderze [`pcb/`](./pcb) można otworzyć w programie do podglądu Gerber, np. KiCad Gerber Viewer.  
+- W folderze [`photos/`](./photos) znajdziesz wizualizacje i zdjęcia rzeczywistego urządzenia.  
 
 ---
 
