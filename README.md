@@ -53,7 +53,7 @@ If you have any questions, feel free to reach out:
 ---
 ## PL
 
-# 🎧 Headphone Amplifier
+# 🎧 Projekt wzmacniacza słuchawkowego
 
 Projekt wzmacniacza słuchawkowego klasy A — zaprojektowany, zwymiarowany i przetestowany.
 
