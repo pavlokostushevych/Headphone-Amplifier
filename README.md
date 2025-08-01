@@ -17,9 +17,9 @@ Class A headphone amplifier project — designed, simulated, and tested.
  preview  
 
 - [`photos/`](./photos) — images and visualizations of the device  
-  - 3D simulation renderings  
-  - Actual photo of the PCB soldering side  
-  - Photo of the tested device  
+  - [3D Simulated View of the PCB](./photos/3D%20Simulated%20View%20of%20the%20PCB.jpg)
+  - [Actual Photo of the PCB from the Soldering Side](./photos/Actual%20Photo%20of%20the%20PCB%20from%20the%20Soldering%20Side.jpg)
+  - [Testing Device](./photos/Testing%20Device.jpg)
 
 ---
 
@@ -70,9 +70,9 @@ Projekt wzmacniacza słuchawkowego klasy A — zaprojektowany, zwymiarowany i pr
 - [`pcb/`](./pcb) — pliki Gerber oraz zrzut ekranu z Gerber Viewer do szybkiego podglądu projektu [PCB](./pcb/pcb_gerber_preview.png)  
 
 - [`photos/`](./photos) — zdjęcia i wizualizacje urządzenia  
-  - 3D symulacja wyglądu  
-  - Zdjęcie rzeczywistej płytki PCB od strony lutowania  
-  - Zdjęcie testowanego urządzenia  
+  - [3D Simulated View of the PCB](./photos/3D%20Simulated%20View%20of%20the%20PCB.jpg)
+  - [Actual Photo of the PCB from the Soldering Side](./photos/Actual%20Photo%20of%20the%20PCB%20from%20the%20Soldering%20Side.jpg)
+  - [Testing Device](./photos/Testing%20Device.jpg)
 
 ---
 
