@@ -9,8 +9,9 @@ Class A headphone amplifier project — designed, simulated, and tested.
 ## 📂 Project Structure
 
 - [`docs/`](./docs) — presentations of analysis and simulation in LTspice  
-  - Polish version: *Symulacja i analiza wzmacniacza słuchawkowego klasy A w LTspice*  
-  - English version: *LTspice Simulation and Analysis of Class A Headphone Amplifier*  
+  - Polish version: *[Symulacja i analiza wzmacniacza słuchawkowego klasy A w LTspice](./docs/Symulacja_i_analiza_wzmacniacza_słuchawkowego_klasy_A_w_LTspice.pdf)*  
+  - English version: *[LTspice Simulation and Analysis of Class A Headphone Amplifier](./docs/LTspice_Simulation_and_Analysis_of_Class_A_Headphone_Amplifier.pdf)*  
+
 
 - [`pcb/`](./pcb) — Gerber files and a screenshot from Gerber Viewer for quick PCB preview  
 
