@@ -13,7 +13,8 @@ Class A headphone amplifier project — designed, simulated, and tested.
   - English version: *[LTspice Simulation and Analysis of Class A Headphone Amplifier](./docs/LTspice%20Simulation%20and%20Analysis%20of%20Class%20A%20Headphone%20Amplifier.pdf)*  
 
 
-- [`pcb/`](./pcb) — Gerber files and a screenshot from Gerber Viewer for quick PCB preview  
+- [`pcb/`](./pcb) — Gerber files and a screenshot from Gerber Viewer for quick [PCB](./pcb/pcb_gerber_preview.png)
+ preview  
 
 - [`photos/`](./photos) — images and visualizations of the device  
   - 3D simulation renderings  
