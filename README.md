@@ -63,8 +63,8 @@ Projekt wzmacniacza słuchawkowego klasy A — zaprojektowany, zwymiarowany i pr
 ## 📂 Struktura projektu
 
 - [`docs/`](./docs) — prezentacje analizy i symulacji układu w LTspice  
-  - Polskojęzyczna: *Symulacja i analiza wzmacniacza słuchawkowego klasy A w LTspice*  
-  - Angielska: *LTspice Simulation and Analysis of Class A Headphone Amplifier*  
+  - Polskojęzyczna: *[Symulacja i analiza wzmacniacza słuchawkowego klasy A w LTspice](./docs/Symulacja%20i%20analiza%20wzmacniacza%20słuchawkowego%20klasy%20A%20w%20LTspice.pdf)*   
+  - Angielska: *[LTspice Simulation and Analysis of Class A Headphone Amplifier](./docs/LTspice%20Simulation%20and%20Analysis%20of%20Class%20A%20Headphone%20Amplifier.pdf)*   
 
 - [`pcb/`](./pcb) — pliki Gerber oraz zrzut ekranu z Gerber Viewer do szybkiego podglądu projektu PCB  
 
